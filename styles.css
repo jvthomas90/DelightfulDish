@@ -1,0 +1,49 @@
+nav {
+    background-color: #2878d3;
+}
+
+.navbar-brand {
+    color: #39e1ff;
+    font-size: 1.75rem;
+}
+
+body {
+    background-color: #63d5dd;
+}
+
+.btn {
+    background-color: #00b5bb;
+    border: 0px;
+    font-weight: bold;
+    font-size: 1.5em;
+}
+
+h1 {
+   color: #0579af;
+   font-weight: bold;
+}
+
+h2 {
+    color: #007aaa;
+ }
+
+.card > .card {
+    background-color: #2391b3;
+    color: rgb(0, 255, 170);
+}
+
+.card > .card > h5,h6 {
+    color: white;
+}
+
+h5 {
+    font-size: 3em;
+}
+
+h6 {
+    font-size: 1.75em;
+}
+
+label {
+    font-size: 1.25em;
+}
